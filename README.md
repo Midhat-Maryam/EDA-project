@@ -6,12 +6,11 @@ This project explores customer behavior, sales performance, and return patterns 
 ---
 
 ## 🎯 Learning Objectives
-By completing this project, you will be able to:
-1. Clean and preprocess real-world datasets (handle missing values, inconsistent types, and outliers).
-2. Formulate and test business-oriented hypotheses.
-3. Perform **univariate, bivariate, and multivariate analysis**.
-4. Derive insights about sales, returns, pricing, and customer demographics.
-5. Communicate findings effectively through visualizations.
+1. Cleaned and preprocessed real-world dataset (handle missing values, inconsistent types, and outliers).
+2. Formulated and tested business-oriented hypotheses.
+3. Performed **univariate, bivariate, and multivariate analysis**.
+4. Derived insights about sales, returns, pricing, and customer demographics.
+5. Communicated findings effectively through visualizations.
 
 ---
 
